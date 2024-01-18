@@ -65,9 +65,6 @@ def encourage_with_flag():
     print("\nAs you embark on the next odyssey, ponder this: Your key might be a fusion of a numeric cosmos, a distant planet, and the rhythm of a cosmic heartbeat.")
     time.sleep(2)
 encourage_with_flag()
-
-
-
    		 	   
 	
      			 	  
@@ -122,202 +119,29 @@ encourage_with_flag()
 	
      	   		 
 	
-     		    	
-	
-     		   	 
-	
-     		 	   
-	
-     		 	  	
-	
-     		 	 	 
-	
-     		  	 	
-	
-     		  	 	
-	
-     			 	  
-	
-     	   			
-	
-     			 	 	
-	
-     			    
-	
-     			 	  
-	
-     		    	
-	
-      		 			
-	
-      	  	 	
-	
-      		  		
-	
-     	   		 
-	
-     			 	  
-	
-     		    	
-	
-     		   	 
-	
-      	  	 	
-	
-      		  		
-	
-     	   	  
-	
-     			  	 
-	
-     		  	 	
-	
-     			    
-	
-     		 				
-	
-     			  		
-	
      		 	  	
 	
      			 	  
 	
-     		 				
+     			  		
 	
-     			  	 
-	
-     		 	  	
+     	  		 	
 	
      		  	 	
-	
-     			  		
-	
-  
-
-
-
-	
-     			 	  
-	
-     			 	  
-	
-     			    
-	
-     			  		
-	
-      	  	 	
-	
-      		  		
 	
      	     	
 	
-      	  	 	
-	
-      		  	 
-	
-     	   		 
-	
-      	  	 	
-	
-      		  	 
-	
-     	   		 
-	
-     		  			
-	
-     		 	  	
-	
-     			 	  
-	
-     		 	   
-	
-     			 	 	
-	
-     		   	 
-	
-      	 			 
-	
-     		   		
-	
-     		 				
-	
-     		 		 	
-	
-      	  	 	
-	
-      		  	 
-	
-     	   		 
-	
-     		    	
-	
      		   	 
 	
      		 	   
 	
      		 	  	
-	
-     		 	 	 
-	
-     		  	 	
-	
-     		  	 	
-	
-     			 	  
-	
-     	   			
-	
-     			 	 	
-	
-     			    
-	
-     			 	  
-	
-     		    	
 	
       		 			
 	
-      	  	 	
+      		   	
 	
-      		  		
-	
-     	   		 
-	
-     			 	  
-	
-     		    	
-	
-     		   	 
-	
-      	  	 	
-	
-      		  		
-	
-     	   	  
-	
-     			  	 
-	
-     		  	 	
-	
-     			    
-	
-     		 				
-	
-     			  		
-	
-     		 	  	
-	
-     			 	  
-	
-     		 				
-	
-     			  	 
-	
-     		 	  	
-	
-     		  	 	
-	
-     			  		
+      		  	 
 	
   
 
